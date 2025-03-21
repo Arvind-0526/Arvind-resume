@@ -3,7 +3,7 @@
 Welcome to my resume repository! This repository contains my latest resume, showcasing my professional experience, skills, and achievements.  
 
 ## 🔗 Download My Resume  
-📄 **[Click Here to Download](ArvindM_Resume.pdf)**  
+📄 **[Click Here to Download](Resume-Arvind.pdf)**  
 
 ---
 
